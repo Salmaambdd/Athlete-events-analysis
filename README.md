@@ -19,7 +19,7 @@ Analyze Olympic performance by country, year, and sport to uncover medal distrib
 - USA leads overall medal counts.
 - Athletics and Swimming dominate gold totals.
 - Youngest medalist was only 10 years old!
-
+![Dashboard Preview](https://github.com/Salmaambdd/Athlete-events-analysis/blob/main/Olympic%20Dashboard.png?raw=true)
 ---
 
 📁 **Built with:** Power BI  
